@@ -5,17 +5,17 @@ I'm a Software Engineer / Full Stack Developer <img src="https://media2.giphy.co
 - 🔭 I come from Vietnam and I'm fluent in both Vietnamese and English.
 - 🌱 Interested in Software and Website Developing.
 - ⚡ In my free time, I read news, tech articles, and research in online projects.
-- 🏍️ Aside from that, I like reading comics and riding motorcycle to relax after a long day.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-peter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xuan-thinh-le-134a85205/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-max-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-vo/)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;    
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;    
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;    
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotnetCore" alt="DotnetCore" width="40" height="40"/>&nbsp;
-    <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" title="DotnetCore" alt="DotnetCore" width="40" height="40"/>&nbsp;
+    <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" title="Entity Framework" alt="Entity Framework" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
