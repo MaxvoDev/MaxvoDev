@@ -1,7 +1,5 @@
 ## Hi there 👋, My Name is Minh Quoc Vo, or you can call me Max
-
-### About Me:
-I'm a Software Engineer / Full Stack Developer <img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30">.
+I'm a Software Engineer / Full Stack Developer.
 - 🔭 I come from Vietnam and I'm fluent in both Vietnamese and English.
 - 🌱 Interested in Software and Website Developing.
 - ⚡ In my free time, I read news, tech articles, and research in online projects.
